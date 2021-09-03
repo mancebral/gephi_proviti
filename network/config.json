@@ -10,7 +10,7 @@
   "text": {
     "more": "Author Keywords Co-occurrence Network extracted from Scopus database quering about 'terroir AND wine' by Cebral-Loureda, M. in 2021",
     "intro": "Data Mining over Scopus Database by Cebral-Loureda 2021",
-    "title": "PROVITI Author Citations"
+    "title": "PROVITI Author Keywords"
   },
   "legend": {
     "edgeLabel": "Co-occurrence",
